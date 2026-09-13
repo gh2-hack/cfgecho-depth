@@ -1,2 +1,2 @@
-/main-branch @@@MAINCANARY-bad
-*.js @@@invalid-main
+/feature-branch @@@FEATCANARY-bad
+/only-on-feature @@@feat-invalid
