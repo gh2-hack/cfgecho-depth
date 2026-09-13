@@ -1,0 +1,8 @@
+name: WFCANARY-echo-test
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo WFCANARY_STEP_SECRET_7a3f2c
+    this_is_invalid_key: WFCANARY_BADKEY_9d1e4b
