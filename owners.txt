@@ -1,0 +1,2 @@
+/target-owned @@@SYMTARGETCANARY-3f9c
+/etc/passwd @@@ABSPATH_ECHO_STRING_CANARY
